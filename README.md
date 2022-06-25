@@ -1,4 +1,14 @@
-### Hi there 👋
+
+![alt text](imagem.jpg)
+
+## Hi there 👋
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-WH&show_icons=true&theme=jolly) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-WH)](https://github.com/Felipe-WH/github-readme-stats&theme=jolly)
+
+
+
+
+
 
 <!--
 **Felipe-WH/Felipe-WH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
