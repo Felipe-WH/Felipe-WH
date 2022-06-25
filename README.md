@@ -14,14 +14,15 @@
 
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
- 
- 
- <ul>
-   <li><p>Gmail</p></li>
-   <li><a href="https://twitter.com/felipewh_"><p>Twitter</p></li>
-  <li><a href="https://twitter.com/felipewh_"><p>Twitter</p></li>
-</a>
+
+# Hello, I'm Felipe!
+
+- &#x1F913; I’m beginner in programming and hope to grow up together with FEA.Dev &#128155;&#128420;
+- &#128187; I’m currently learning SQL and VBA
+- &#129302; I’m looking to collaborate on projects related to automating
+- &#128231; How to reach me: felipewheidenfelder@usp.br  or  https://www.linkedin.com/in/felipeheidenfelder/
+- ⚡ Fun fact: Table tennis &#127955; is my favorite sport besides surfing &#127940;
+
 
 
 <h2 align="center">
@@ -37,16 +38,4 @@
 
 
 <!--
-**Felipe-WH/Felipe-WH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
