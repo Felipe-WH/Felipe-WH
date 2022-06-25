@@ -31,7 +31,7 @@
 
  <p align = "center">
    <img  src = "https://github-readme-stats.vercel.app/api?username=Felipe-WH&show_icons=true&theme=synthwave&line_height=27">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-WH&hide=html,css,java,shaderlab,kotlin,hlsl&theme=synthwave">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-WH&theme=synthwave">
  </p>
 
 
