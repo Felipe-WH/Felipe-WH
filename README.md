@@ -21,7 +21,7 @@
 - &#128187; I’m currently learning SQL and VBA
 - &#129302; I’m looking to collaborate on projects related to automating
 - &#128231; How to reach me: felipewheidenfelder@usp.br  or  https://www.linkedin.com/in/felipeheidenfelder/
-- ⚡ Fun fact: Table tennis &#127955; is my favorite sport besides surfing &#127940;
+- ⚡ Fun fact: Table tennis &#127955; is my favorite sport besides surfing &#127940; and going to the gym &#x1f3cb;
 
 
 
