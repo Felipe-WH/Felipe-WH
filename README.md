@@ -2,7 +2,7 @@
 </p align="center">
 
 <p align="center">
-<img src="imagem3.jpg">
+<img src="capa2.jpg">
 </p align="center">
 
 
