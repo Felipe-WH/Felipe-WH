@@ -23,16 +23,15 @@
 - &#128231; How to reach me: felipewheidenfelder@usp.br  or  https://www.linkedin.com/in/felipeheidenfelder/
 - ⚡ Fun fact: Table tennis &#127955; is my favorite sport besides surfing &#127940; and going to the gym &#x1f3cb;
 
-<br>
 
 <div align=center>
  
 # Languages
 <div>
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
- <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
- <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+ <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
  <br>
  </div>
@@ -48,8 +47,7 @@
 </div>
 <br>
  
- 
-<br>
+
  <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
