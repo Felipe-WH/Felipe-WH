@@ -9,8 +9,8 @@
 <p align="center">
  
 <!-- <img src="https://badges.pufler.dev/visits/Felipe-WH/Felipe-WH"/> -->
- <img src="https://badges.pufler.dev/repos/Felipe-WH"/>
- <img src="https://badges.pufler.dev/commits/monthly/Felipe-WH" />
+ <!--<img src="https://badges.pufler.dev/repos/Felipe-WH"/> -->
+ <!--<img src="https://badges.pufler.dev/commits/monthly/Felipe-WH" /> -->
 
 </p>
 
