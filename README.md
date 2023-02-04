@@ -1,9 +1,6 @@
 <p align="center">
 </p align="center">
 
-<p align="center">
-<img src="capa2.jpg">
-</p align="center">
 
 
 <p align="center">
