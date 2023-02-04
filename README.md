@@ -14,7 +14,7 @@
 
 # Hello, I'm Felipe!
 
-- &#x1F913; I’m beginner in programming and hope to grow up together with FEA.dev &#128155;&#128420;
+- &#x1F913; I love programming and hope to grow up together with FEA.dev &#128155;&#128420;
 - &#128187; I’m currently learning SQL and VBA
 - &#129302; I’m looking to collaborate on projects related to automating
 - &#128231; How to reach me: felipewheidenfelder@usp.br  or  https://www.linkedin.com/in/felipeheidenfelder/
